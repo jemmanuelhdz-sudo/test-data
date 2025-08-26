@@ -1,0 +1,7 @@
+date,product,stock_level,reorder_point
+2024-01-01,ProductA,500,200
+2024-01-02,ProductA,400,200
+2024-01-03,ProductA,280,200
+2024-01-01,ProductB,300,150
+2024-01-02,ProductB,205,150
+2024-01-03,ProductB,95,150

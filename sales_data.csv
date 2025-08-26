@@ -1,0 +1,7 @@
+date,product,sales,revenue
+2024-01-01,ProductA,100,1500
+2024-01-02,ProductA,150,2250
+2024-01-03,ProductA,120,1800
+2024-01-01,ProductB,80,2400
+2024-01-02,ProductB,95,2850
+2024-01-03,ProductB,110,3300
